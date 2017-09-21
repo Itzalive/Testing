@@ -12,11 +12,7 @@
 ```
 Short (50 chars or less) summary of changes
 
-More detailed explanatory text, if necessary. Wrap it to about 72
-characters or so. In some contexts, the first line is treated as
-the subject of an email and the rest of the text as the body.
-The blank line separating the summary from the body is critical
-(unless you omit the body entirely); tools like rebase can get
+More detailed explanatory text, if necessary. Wrap it to about y entirely); tools like rebase can get
 confused if you run the two together.
 
 Explain the problem that this commit is solving. Focus on why you
